@@ -1,0 +1,24 @@
+[
+    {
+        "id": "993145-nindethana365bc-stage",
+        "name": "993145-nindethana365bc-stage",
+        "title": "993145-nindethana365bc-stage",
+        "description": "993145-nindethana365bc-stage",
+        "icon": "no",
+        "publisher": "aQQ6300000008LEGAY",
+        "endpoints": {
+            "commerce/backend-ui/1": {
+                "view": [
+                    {
+                        "href": "https://993145-nindethana365bc-stage.adobeio-static.net/index.html"
+                    }
+                ]
+            }
+        },
+        "xrInfo": {
+            "supportEmail": "test@adobe.com",
+            "appId": "4a4c7cf8-bd64-4649-b8ed-662cd0d9c918"
+        },
+        "status": "PUBLISHED"
+    }
+]
