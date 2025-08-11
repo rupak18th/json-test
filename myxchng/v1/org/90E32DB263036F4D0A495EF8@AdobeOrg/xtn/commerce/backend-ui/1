@@ -1,11 +1,10 @@
 [
     {
-        "id": "nindethana365bc",
-        "name": "nindethana365bc",
-        "title": "nindethana365bc",
-        "description": "nindethana365bc",
-        "icon": "no",
-        "publisher": "aQQ6300000008LEGAY",
+        "name": "993145-Nindethana365BC-stage",
+        "title": "993145-Nindethana365BC-stage",
+        "description": "Nindethana Dynamics 365 BC",
+        "icon": "https://exchange-assets.azureedge.net/jgr-console/ExtensionsRegistry/ccf33eee-d049-4649-b070-0143ae849f6e/icons/a0e40df0-940c-4774-a802-fd4db5a7fbe4.png",
+        "publisher": "91d59491-0fcf-4042-be94-a9ad9b29d850",
         "endpoints": {
             "commerce/backend-ui/1": {
                 "view": [
@@ -16,8 +15,10 @@
             }
         },
         "xrInfo": {
-            "supportEmail": "test@adobe.com",
-            "appId": "4a4c7cf8-bd64-4649-b8ed-662cd0d9c918"
+            "notes": null,
+            "supportEmail": "rupak@18thdigitech.com",
+            "date": null,
+            "appId": "ccf33eee-d049-4649-b070-0143ae849f6e"
         },
         "status": "PUBLISHED"
     }
